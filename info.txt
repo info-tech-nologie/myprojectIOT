@@ -1,0 +1,4 @@
+fichier d'installation:
+-angular 18
+-npm 
+
